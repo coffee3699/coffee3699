@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @coffee3699
-- 👀 I’m interested in CV, NLP techniques, especially LLMs.
-- 🌱 I’m currently learning AI at Beijing University of Posts and Telecommunications.
+- 👋 Hi, I’m Dongyuan Li (李东芫).
+- 👀 My research interest generally lies in Information Retrieval, Multimodl LLMs and Agents.
+- 🌱 I’m currently pursuing a MSc of Artificial Intelligence at Beijing University of Posts and Telecommunications.
 - 📫 How to reach me: pls send email to li_dongyuan@bupt.edu.cn for any formal/informal query.:)
 
 <!---
